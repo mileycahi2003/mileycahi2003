@@ -1,8 +1,9 @@
-<h3 align="center">hello , I`m maleydi achicue</h3>
+<p align="center"> <img src="logo.png" alt="" /> </p>
+
+<h3 align="center">hello , I`m maleydi achicue i like sotfware</h3>
 <h6 align="center">A passionate developer Web  from Colombia</h6>
 
 
-<p align="center"> <img src="logo.png" alt="" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="" alt="" /></a> </p>
 
 
