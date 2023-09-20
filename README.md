@@ -1,4 +1,7 @@
 <p align="center"> <img src="logo.png" alt="" /> </p>
+<div class="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=bienvenidos+a+trueke+donde+;se+comersializa+con+todos" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">hello , I`m maleydi achicue i like sotfware</h3>
 <h6 align="center">A passionate developer Web  from Colombia</h6>
